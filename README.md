@@ -1,1 +1,1 @@
-Projeto Jogo do numero secreto - referente ao curso Lógica de programação: praticando com desafios.
+Projeto Jogo do numero secreto - referente ao curso Lógica de programação: mergulhe em programação com JavaScript: praticando com desafios.
